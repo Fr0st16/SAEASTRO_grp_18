@@ -1,1 +1,5 @@
-# SAEASTRO_grp_18
+# Groupe 18
+
+- Ciuffa ENZO
+- Minnebo VALENTIN
+- Mohammedi SELYAN
